@@ -15,7 +15,7 @@
         <Border Grid.Column="0" Margin="5" Background="AliceBlue" Width="250" BorderThickness="2" BorderBrush="Brown">
             <StackPanel>
                 <Button Name="sign_up_customer_btn" Margin="20, 30" Height="50" FontSize="20" VerticalAlignment="Top" Click="sign_up_customer_btn_Click">Sign up customer</Button>
-                <Button Name="order_btn" Margin="20, 30" Height="50" FontSize="20" VerticalAlignment="Top" Click="order_btn_Click">Order</Button>
+                <Button Name="order_btn" Margin="20, 30" Height="50" FontSize="20" VerticalAlignment="Top" Click="order_btn_Click">Orderrr</Button>
                 <Button Name="report_btn" Margin="20, 30" Height="50" FontSize="20" VerticalAlignment="Top" Click="report_btn_Click">Report</Button>
                 <Button Name="login_btn" Margin="20, 30" Height="50" FontSize="20" VerticalAlignment="Top" Click="login_btn_Click">Login</Button>
                 <Button Name="package_info_btn" Margin="20, 30" Height="50" FontSize="20" VerticalAlignment="Top" Click="package_info_btn_Click">Package info</Button>
