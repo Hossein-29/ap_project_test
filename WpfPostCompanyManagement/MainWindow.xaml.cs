@@ -62,7 +62,8 @@ namespace WpfPostCompanyManagement
 
         private void login_btn_Click(object sender, RoutedEventArgs e)
         {
-
+            LoginWindow loginWindow = new LoginWindow();
+            loginWindow.ShowDialog();
         }
     }
 }
