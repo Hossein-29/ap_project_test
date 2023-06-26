@@ -1,0 +1,6 @@
+C:\Users\Hossein Babazadeh\Documents\wpf\PostCompanyManagement\TestDataAccess\bin\Debug\TestDataAccess.dll
+C:\Users\Hossein Babazadeh\Documents\wpf\PostCompanyManagement\TestDataAccess\bin\Debug\TestDataAccess.pdb
+C:\Users\Hossein Babazadeh\Documents\wpf\PostCompanyManagement\TestDataAccess\obj\Debug\DataAccess.csproj.AssemblyReference.cache
+C:\Users\Hossein Babazadeh\Documents\wpf\PostCompanyManagement\TestDataAccess\obj\Debug\DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\Hossein Babazadeh\Documents\wpf\PostCompanyManagement\TestDataAccess\obj\Debug\TestDataAccess.dll
+C:\Users\Hossein Babazadeh\Documents\wpf\PostCompanyManagement\TestDataAccess\obj\Debug\TestDataAccess.pdb

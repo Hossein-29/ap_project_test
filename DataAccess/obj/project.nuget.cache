@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "2/dQWIzz/tjtct8kaK18ES7N1pjLU9j7B2oQlrfxNtigolP19a8nnR8Z4W8Yr/Tz2mDUZ+Z9xsKfdnZ+HoFZAQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Hossein Babazadeh\\Documents\\wpf\\PostCompanyManagement\\DataAccess\\DataAccess.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Hossein Babazadeh\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.1.0\\microsoft.windowsdesktop.app.ref.3.1.0.nupkg.sha512",
+    "C:\\Users\\Hossein Babazadeh\\.nuget\\packages\\microsoft.netcore.app.ref\\3.1.0\\microsoft.netcore.app.ref.3.1.0.nupkg.sha512",
+    "C:\\Users\\Hossein Babazadeh\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.10\\microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512"
+  ],
+  "logs": []
+}
